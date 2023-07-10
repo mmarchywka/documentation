@@ -1,0 +1,8 @@
+#2020-09-08 & Rover 0900AM 1.0 tsp  food
+#2020-09-08 & Rover 0900AM 1.0 gram  food
+#2020-09-09 & Rover 0900AM 1.0 tsp of 10 tsp  food
+E2020-09-09 & Rover 1000AM 1.0 tsp  80 pct   food
+#2020-09-09 & Rover 1030AM  90 pct of 2tsp   food
+2020-09-20 & AMSNACK 0615AM  1gram X-2  2mg  food 3mg  X-1 10g  beef20
+2020-09-20 & Lassie .3 of .5  AMSNACK  
+

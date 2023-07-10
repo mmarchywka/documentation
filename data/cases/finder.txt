@@ -1,0 +1,5 @@
+
+# paths must not overlap or else double counts will occur
+#path . 3
+path /home/scripts/script_data 3 
+path /home/documents/latex/proj/cases 4

@@ -1,0 +1,5 @@
+# these need modifiers like nouns for expiration date etc
+#NOW
+#nutricost
+bulk
+unknown

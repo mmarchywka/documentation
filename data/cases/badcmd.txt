@@ -1,0 +1,4 @@
+
+Your message contained a bad command. Need register or something
+doh.
+
